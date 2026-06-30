@@ -1,0 +1,12 @@
+.DS_Store
+tmp/
+output/
+
+# Local source notes and generated reports kept private by default.
+*.pdf
+*.md
+!README.md
+*.csv
+墩墩感统课趋势图.html
+墩墩感统课阶段分析.html
+墩墩感统课日历分析.html
